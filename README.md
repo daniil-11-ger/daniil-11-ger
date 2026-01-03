@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Daniil 👋 
+### Biotechnology Student | 3rd Year | Bioinformatics Enthusiast
 
-<!--
-**daniil-11-ger/daniil-11-ger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in genome assembly, automated pipelines, and laboratory software development.
 
-Here are some ideas to get you started:
+## 🧬 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Plant Genome Assembly (Rice)](https://github.com/daniil-11-ger/oryza-sativa-genome-assembly)
+- **Focus:** Eukaryotic genome reconstruction using PacBio HiFi reads.
+- **Tools:** Hifiasm, Jellyfish, RagTag, Augustus.
+- **Key Skill:** Scaffolding and organelle sorting.
+
+###  [Biotech Lab Assistant (GUI)](https://github.com/daniil-11-ger/biotech-gui-tools)
+- **Focus:** Python desktop tools for routine lab calculations.
+- **Features:** Tm calculation (Wallace Rule), DNA-to-RNA transcription.
+- **Key Skill:** Python Software Development.
+
+###  [Bacterial Assembly Pipeline](https://github.com/daniil-11-ger/bacterial-genome-assembly)
+- **Focus:** Automated workflow for E. coli genome assembly.
+- **Tools:** fastp, SPAdes, Prokka, QUAST.
+
+---
+##  Tech Stack
+- **Bioinformatics:** Bash Scripting, Conda, HPC, SRA-tools.
+- **Development:** Python (Tkinter), Git/GitHub.
+- **Domain:** PCR Design, Genomic Annotation, Molecular Biology.
+
+**Connect with me:** [LinkedIn](www.linkedin.com/in/daniil-gerassimov-2478802b8)
