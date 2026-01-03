@@ -6,18 +6,20 @@ I specialize in genome assembly, automated pipelines, and laboratory software de
 ## Featured Projects
 
 ### [Plant Genome Assembly (Rice)](https://github.com/daniil-11-ger/oryza-sativa-genome-assembly)
-- **Focus:** Eukaryotic genome reconstruction using PacBio HiFi reads.
-- **Tools:** Hifiasm, Jellyfish, RagTag, Augustus.
-- **Key Skill:** Scaffolding and organelle sorting.
+* **Focus:** Eukaryotic genome reconstruction using PacBio HiFi reads.
+* **Tools:** Hifiasm, Jellyfish, RagTag, Augustus.
+* **Key Skill:** Scaffolding, k-mer profiling, and organelle sorting.
+* **Live Report:** [View Project Website](https://daniil-11-ger.github.io/oryza-sativa-genome-assembly/)
 
-###  [Bacterial Assembly Pipeline](https://github.com/daniil-11-ger/bacterial-genome-assembly)
-- **Focus:** Automated workflow for E. coli genome assembly.
-- **Tools:** fastp, SPAdes, Prokka, QUAST.
+### [Bacterial Assembly Pipeline](https://github.com/daniil-11-ger/bacterial-genome-assembly)
+* **Focus:** Automated workflow for E. coli genome assembly.
+* **Tools:** fastp, SPAdes, Prokka, QUAST.
+* **Key Skill:** Automation & Genomic Annotation.
 
-###  [Biotech Lab Assistant (GUI)](https://github.com/daniil-11-ger/biotech-gui-tools)
-- **Focus:** Python desktop tools for routine lab calculations.
-- **Features:** Tm calculation (Wallace Rule), DNA-to-RNA transcription.
-- **Key Skill:** Python Software Development.
+## [Biotech Lab Assistant (GUI)](https://github.com/daniil-11-ger/biotech-gui-tools)
+* **Focus:** Python desktop tools for routine lab calculations.
+* **Features:** Tm calculation (Wallace Rule), DNA-to-RNA transcription.
+* **Key Skill:** Python Software Development & UI Design.
 
 ### [BioSample Cloud Tracker](https://github.com/daniil-11-ger/biosample-cloud-tracker)
 * **Focus:** Cloud-based Android application for laboratory inventory.
