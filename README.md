@@ -6,30 +6,30 @@ I specialize in genome assembly, automated pipelines, and laboratory software de
 ## Featured Projects
 
 ### [Plant Genome Assembly (Rice)](https://github.com/daniil-11-ger/oryza-sativa-genome-assembly)
-**Focus:** Eukaryotic genome reconstruction using PacBio HiFi reads.
-**Tools:** Hifiasm, Jellyfish, RagTag, Augustus.
-**Key Skill:** Scaffolding, k-mer profiling, and organelle sorting.
-**Live Report:** [View Project Website](https://daniil-11-ger.github.io/oryza-sativa-genome-assembly/)
+* **Focus:** Eukaryotic genome reconstruction using PacBio HiFi reads.
+* **Tools:** Hifiasm, Jellyfish, RagTag, Augustus.
+* **Key Skill:** Scaffolding, k-mer profiling, and organelle sorting.
+* **Live Report:** [View Project Website](https://daniil-11-ger.github.io/oryza-sativa-genome-assembly/)
 
 ### [Bacterial Assembly Pipeline](https://github.com/daniil-11-ger/bacterial-genome-assembly)
 * **Focus:** Automated workflow for E. coli genome assembly.
-**Tools:** fastp, SPAdes, Prokka, QUAST.
-**Key Skill:** Automation & Genomic Annotation.
+* **Tools:** fastp, SPAdes, Prokka, QUAST.
+* **Key Skill:** Automation & Genomic Annotation.
 
 ## [Biotech Lab Assistant (GUI)](https://github.com/daniil-11-ger/biotech-gui-tools)
-**Focus:** Python desktop tools for routine lab calculations.
-**Features:** Tm calculation (Wallace Rule), DNA-to-RNA transcription.
-**Key Skill:** Python Software Development & UI Design.
+* **Focus:** Python desktop tools for routine lab calculations.
+* **Features:** Tm calculation (Wallace Rule), DNA-to-RNA transcription.
+* **Key Skill:** Python Software Development & UI Design.
 
 ### [BioSample Cloud Tracker](https://github.com/daniil-11-ger/biosample-cloud-tracker)
- **Focus:** Cloud-based Android application for laboratory inventory.
-**Features:** Real-time data sync via CloudDB, item management for reagents/samples.
- **Key Skill:** Mobile Development (MIT App Inventor) & Cloud Integration.
+*  **Focus:** Cloud-based Android application for laboratory inventory.
+* **Features:** Real-time data sync via CloudDB, item management for reagents/samples.
+*  **Key Skill:** Mobile Development (MIT App Inventor) & Cloud Integration.
 
 ---
 ##  Tech Stack
-**Bioinformatics:** Bash Scripting, Conda, HPC, SRA-tools, K-mer Analysis.
-**Development:** Python (Tkinter), Git/GitHub, Mobile App Development (AIA).
-**Domain:** PCR Design, Genomic Annotation, Molecular Biology, Laboratory Automation.
+* **Bioinformatics:** Bash Scripting, Conda, HPC, SRA-tools, K-mer Analysis.
+* **Development:** Python (Tkinter), Git/GitHub, Mobile App Development (AIA).
+* **Domain:** PCR Design, Genomic Annotation, Molecular Biology, Laboratory Automation.
 
 **Connect with me:** [LinkedIn](www.linkedin.com/in/daniil-gerassimov-2478802b8)
