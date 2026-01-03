@@ -12,7 +12,7 @@ I specialize in genome assembly, automated pipelines, and laboratory software de
 **Live Report:** [View Project Website](https://daniil-11-ger.github.io/oryza-sativa-genome-assembly/)
 
 ### [Bacterial Assembly Pipeline](https://github.com/daniil-11-ger/bacterial-genome-assembly)
-**Focus:** Automated workflow for E. coli genome assembly.
+* **Focus:** Automated workflow for E. coli genome assembly.
 **Tools:** fastp, SPAdes, Prokka, QUAST.
 **Key Skill:** Automation & Genomic Annotation.
 
