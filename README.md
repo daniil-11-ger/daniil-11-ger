@@ -3,7 +3,7 @@
 
 I specialize in genome assembly, automated pipelines, and laboratory software development.
 
-## 🧬 Featured Projects
+## Featured Projects
 
 ### [Plant Genome Assembly (Rice)](https://github.com/daniil-11-ger/oryza-sativa-genome-assembly)
 - **Focus:** Eukaryotic genome reconstruction using PacBio HiFi reads.
