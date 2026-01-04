@@ -1,7 +1,17 @@
 # Hi, I'm Daniil 👋 
 ### Biotechnology Student | 3rd Year | Bioinformatics Enthusiast
 
-I specialize in genome assembly, automated pipelines, and laboratory software development.
+I am a researcher and data analyst focused on the intersection of **Plant Genomics** and **Digital Phenotyping**. My work bridges the gap between raw biological data and actionable agricultural insights.
+
+### Technical Expertise:
+* **Genomics:** De novo genome assembly (Hifiasm, Jellyfish), Annotation (Prokka), and Homology (BLAST+).
+* **Transcriptomics:** Differential Gene Expression (DGE) analysis, Volcano plots, and statistical filtering in R.
+* **Phenomics:** Statistical analysis of field trials, automated plot summarization, and trait correlation.
+* **Data Science:** Functional programming in R (Tidyverse), hypothesis testing (ANOVA, t-test), and Linear Regression.
+* **Engineering:** Laboratory automation (Python GUIs) and Cloud-based sample tracking (MIT App Inventor).
+
+### Experience:
+* **KAUST (Jesse Poland Lab):** Research internship focusing on digital phenotyping and high-throughput field data analysis.
 
 ## Featured Projects
 
