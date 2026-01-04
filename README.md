@@ -77,4 +77,41 @@ I am a researcher and data analyst focused on the intersection of **Plant Genomi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 💻 Tech Stack
+
+<details>
+<summary><b>🧬 Bioinformatics (Click to expand)</b></summary>
+<ul>
+  <li><b>Bash Scripting:</b> Automated pipelines for genome assembly.</li>
+  <li><b>Conda:</b> Environment management for reproducible research.</li>
+  <li><b>HPC:</b> Working with clusters and job schedulers (SLURM).</li>
+  <li><b>K-mer Analysis:</b> Using Jellyfish for genome size estimation.</li>
+</ul>
+</details>
+
+<details>
+<summary><b>💻 Development (Click to expand)</b></summary>
+<ul>
+  <li><b>Python:</b> Creating GUI tools for lab calculations.</li>
+  <li><b>Git/GitHub:</b> Version control and project documentation.</li>
+  <li><b>AIA:</b> Mobile app development for inventory tracking.</li>
+</ul>
+</details>
+
+<details>
+<summary><b>🧪 Domain Knowledge (Click to expand)</b></summary>
+<ul>
+  <li>PCR Primer Design & Analysis.</li>
+  <li>Functional Genomic Annotation (Prokka).</li>
+  <li>Laboratory Process Automation.</li>
+</ul>
+</details>
+
+<br>
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 **Connect with me:** [LinkedIn](www.linkedin.com/in/daniil-gerassimov-2478802b8)
