@@ -26,6 +26,27 @@ I am a researcher and data analyst focused on the intersection of **Plant Genomi
 * **Tools:** fastp, SPAdes, Prokka, QUAST.
 * **Key Skill:** Automation & Genomic Annotation.
 
+### 📊 [Differential Gene Expression (DGE)](https://github.com/daniil-11-ger/differential-gene-expression-R)
+* **Focus:** Identifying significant genes in stress-response transcriptomes (LS vs HS).
+* **Tools:** `R`, `Tidyverse`, `ggplot2`.
+* **Key Skill:** Statistical hypothesis testing and biological visualization (Volcano Plots).
+
+
+### 🌾 [Agronomic Data Automation (Project Connor)](https://github.com/daniil-11-ger/agronomic-data-automation-r)
+* **Focus:** Automated summarization of multi-trait field breeding trials.
+* **Tools:** `R`, `Functional Programming`, `dplyr`.
+* **Key Skill:** Data engineering and automated plot-level variability analysis.
+
+### 🔍 [Sequence Homology Search (BLAST)](https://github.com/daniil-11-ger/sequence-homology-search-blast)
+* **Focus:** Large-scale sequence identification and hit validation.
+* **Tools:** `NCBI BLAST+`, `Bioconductor`, `R`.
+* **Key Skill:** Processing command-line output into statistical reports.
+
+### 📖 [Foundations of Statistics & R](https://github.com/daniil-11-ger/r-statistics-foundations)
+* **Focus:** Intensive curriculum for biological data analysis and inference.
+* **Topics:** CLT simulations, ANOVA, Tukey HSD, and Linear Regression.
+* **Key Skill:** Mathematical foundations and reproducible modeling.
+
 ## [Biotech Lab Assistant (GUI)](https://github.com/daniil-11-ger/biotech-gui-tools)
 * **Focus:** Python desktop tools for routine lab calculations.
 * **Features:** Tm calculation (Wallace Rule), DNA-to-RNA transcription.
@@ -42,6 +63,16 @@ I am a researcher and data analyst focused on the intersection of **Plant Genomi
 * **Development:** Python (Tkinter), Git/GitHub, Mobile App Development (AIA).
 * **Domain:** PCR Design, Genomic Annotation, Molecular Biology, Laboratory Automation.
 * ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 💻 Tech Stack
+* **Bioinformatics:** Bash Scripting, Conda, HPC, SRA-tools, K-mer Analysis.
+* **Development:** Python (Tkinter), Git/GitHub, Mobile App Development (AIA).
+* **Domain:** PCR Design, Genomic Annotation, Molecular Biology, Laboratory Automation.
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
