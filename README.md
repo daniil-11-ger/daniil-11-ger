@@ -62,7 +62,8 @@ I am a researcher and data analyst focused on the intersection of **Plant Genomi
 * **Bioinformatics:** [Bash Scripting](https://github.com/daniil-11-ger/oryza-sativa-genome-assembly), [Conda](https://github.com/daniil-11-ger/bacterial-genome-assembly), HPC, SRA-tools, [K-mer Analysis](https://github.com/daniil-11-ger/oryza-sativa-genome-assembly).
 * **Development:** [Python (Tkinter)](https://github.com/daniil-11-ger/biotech-gui-tools), Git/GitHub, [Mobile App Development (AIA)](https://github.com/daniil-11-ger/biosample-cloud-tracker).
 * **Domain:** PCR Design, [Genomic Annotation](https://github.com/daniil-11-ger/bacterial-genome-assembly), Molecular Biology, Laboratory Automation.
-*![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+## 
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
