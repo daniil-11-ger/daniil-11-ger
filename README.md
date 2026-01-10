@@ -26,23 +26,23 @@ I am a researcher and data analyst focused on the intersection of **Plant Genomi
 * **Tools:** fastp, SPAdes, Prokka, QUAST.
 * **Key Skill:** Automation & Genomic Annotation.
 
-### 📊 [Differential Gene Expression (DGE)](https://github.com/daniil-11-ger/differential-gene-expression-R)
+### [Differential Gene Expression (DGE)](https://github.com/daniil-11-ger/differential-gene-expression-R)
 * **Focus:** Identifying significant genes in stress-response transcriptomes (LS vs HS).
 * **Tools:** `R`, `Tidyverse`, `ggplot2`.
 * **Key Skill:** Statistical hypothesis testing and biological visualization (Volcano Plots).
 
 
-### 🌾 [Agronomic Data Automation (Project Connor)](https://github.com/daniil-11-ger/agronomic-data-automation-r)
+### [Agronomic Data Automation (Project Connor)](https://github.com/daniil-11-ger/agronomic-data-automation-r)
 * **Focus:** Automated summarization of multi-trait field breeding trials.
 * **Tools:** `R`, `Functional Programming`, `dplyr`.
 * **Key Skill:** Data engineering and automated plot-level variability analysis.
 
-### 🔍 [Sequence Homology Search (BLAST)](https://github.com/daniil-11-ger/sequence-homology-search-blast)
+### [Sequence Homology Search (BLAST)](https://github.com/daniil-11-ger/sequence-homology-search-blast)
 * **Focus:** Large-scale sequence identification and hit validation.
 * **Tools:** `NCBI BLAST+`, `Bioconductor`, `R`.
 * **Key Skill:** Processing command-line output into statistical reports.
 
-### 📖 [Foundations of Statistics & R](https://github.com/daniil-11-ger/r-statistics-foundations)
+### [Foundations of Statistics & R](https://github.com/daniil-11-ger/r-statistics-foundations)
 * **Focus:** Intensive curriculum for biological data analysis and inference.
 * **Topics:** CLT simulations, ANOVA, Tukey HSD, and Linear Regression.
 * **Key Skill:** Mathematical foundations and reproducible modeling.
