@@ -1,4 +1,4 @@
-# Hi, I'm Daniil 👋 
+# Hi, I'm Daniil Gerassimov👋 
 ### Biotechnology Student | 3rd Year | Bioinformatics Enthusiast
 
 I am a researcher and data analyst focused on the intersection of **Plant Genomics** and **Digital Phenotyping**. My work bridges the gap between raw biological data and actionable agricultural insights.
