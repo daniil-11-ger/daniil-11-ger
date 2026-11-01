@@ -21,11 +21,11 @@ I am a researcher and data analyst focused on the intersection of **Plant Genomi
 
 ## Featured Projects
 
-### Core Research / Computational Genomics
+## Core Research / Computational Genomics
 
 ### [Oryza TE Dynamics](https://github.com/batyrguzinaakmaral-ui/oryza-te-dynamics): Bioinformatic pipeline and visualization tools for investigating Transposable Element dynamics in *Oryza* CC/BBCC genomes.
-* **Ask JASPAR (MBZUAI UGRIP 2026):** Natural-language interface and MCP server tools (`infer_from_sequence`, `compare_matrices`) for transcription factor binding profiles.
-* **Plant Genome Assembly (Rice):** PacBio HiFi read assembly, k-mer profiling, and organelle sorting.
+* **Focus:** Bioinformatic pipeline and visualization tools for investigating Transposable Element (TE) dynamics across *Oryza* CC/BBCC genomes.
+- **Tools:** R, Python, Bash, HPC (UA Cluster), CyVerse.
 
 ### [AskJASPAR](https://github.com/khan-lab/AskJASPAR) (MBZUAI CBCRG Lab — Private Repository): 
   * Natural-language interface and MCP server tools for querying transcription factor binding profiles from JASPAR.
@@ -48,7 +48,7 @@ I am a researcher and data analyst focused on the intersection of **Plant Genomi
 * **Key Skill:** Statistical hypothesis testing and biological visualization (Volcano Plots).
 
 
-### Analytics, Automation & Data Engineering
+## Analytics, Automation & Data Engineering
 ### [Agronomic Data Automation (Project Connor)](https://github.com/daniil-11-ger/agronomic-data-automation-r)
 * **Focus:** Automated summarization of multi-trait field breeding trials.
 * **Tools:** `R`, `Functional Programming`, `dplyr`.
