@@ -1,5 +1,5 @@
 # Hi, I'm Daniil Gerassimov👋 
-### Biotechnology Student | 4rd Year (Dual Degree: University of Arizona & Kozybayev University)| Bioinformatics Enthusiast
+### Biotechnology Student | 4th Year (Dual Degree: University of Arizona & Kozybayev University)| Bioinformatics Enthusiast
 
 I am a researcher and data analyst focused on the intersection of **Plant Genomics** and **Digital Phenotyping**. My work bridges the gap between raw biological data and actionable agricultural insights.
 
@@ -77,14 +77,14 @@ I am a researcher and data analyst focused on the intersection of **Plant Genomi
 * **Development:** [Python (Tkinter)](https://github.com/daniil-11-ger/biotech-gui-tools), Git/GitHub, [Mobile App Development (AIA)](https://github.com/daniil-11-ger/biosample-cloud-tracker).
 * **Domain:** PCR Design, [Genomic Annotation](https://github.com/daniil-11-ger/bacterial-genome-assembly), Molecular Biology, Laboratory Automation.
 ## 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Geneious](https://img.shields.io/badge/Geneious%20Prime-00A86B?style=flat&logo=dna&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Geneious](https://img.shields.io/badge/Geneious%20Prime-00A86B?style=flat&logo=dna&logoColor=white)
 
 ---
 
