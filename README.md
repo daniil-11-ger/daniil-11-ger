@@ -21,7 +21,9 @@ I am a researcher and data analyst focused on the intersection of **Plant Genomi
 
 ## Featured Projects
 
-### [Oryza TE Dynamics](https://github.com/batyrguzinaakmaral-ui/oryza-te-dynamics): Bioinformatic pipeline and visualization tools for investigating Transposable Element dynamics in *Oryza* CC/BBCC genomes.
+### Core Research & Computational Genomics
+
+#### [Oryza TE Dynamics](https://github.com/batyrguzinaakmaral-ui/oryza-te-dynamics): Bioinformatic pipeline and visualization tools for investigating Transposable Element dynamics in *Oryza* CC/BBCC genomes.
 * **Ask JASPAR (MBZUAI UGRIP 2026):** Natural-language interface and MCP server tools (`infer_from_sequence`, `compare_matrices`) for transcription factor binding profiles.
 * **Plant Genome Assembly (Rice):** PacBio HiFi read assembly, k-mer profiling, and organelle sorting.
 
