@@ -54,6 +54,11 @@ I am a researcher and data analyst focused on the intersection of **Plant Genomi
 * **Tools:** `R`, `Functional Programming`, `dplyr`.
 * **Key Skill:** Data engineering and automated plot-level variability analysis.
 
+#### [Field Phenotyping & Analytics Suite](https://github.com/daniil-11-ger/field-phenotyping-workflow-cleaner)
+- **Focus:** Reproducible R pipeline and interactive Shiny web dashboard for cleaning, QC filtering, and mixed-model analysis (LMM/BLUPs) of field trial data.
+- **Tools:** `R` (tidyverse, lme4), `R Shiny`, `Docker`, `Field Book CSV`.
+- **Key Features:** Automated dual-layer outlier detection (biological limits + IQR), spatial field layout visualization, and exportable summary tables for breeding research.
+
 ### [Biotech Lab Assistant (GUI)](https://github.com/daniil-11-ger/biotech-gui-tools)
 * **Focus:** Python desktop tools for routine lab calculations.
 * **Features:** Tm calculation (Wallace Rule), DNA-to-RNA transcription.
