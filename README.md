@@ -1,5 +1,5 @@
 # Hi, I'm Daniil Gerassimov👋 
-### Biotechnology Student | 4rd Year | Bioinformatics Enthusiast
+### Biotechnology Student | 4rd Year (Dual Degree: University of Arizona & Kozybayev University)| Bioinformatics Enthusiast
 
 I am a researcher and data analyst focused on the intersection of **Plant Genomics** and **Digital Phenotyping**. My work bridges the gap between raw biological data and actionable agricultural insights.
 
@@ -11,6 +11,9 @@ I am a researcher and data analyst focused on the intersection of **Plant Genomi
 * **Engineering:** Laboratory automation (Python GUIs) and Cloud-based sample tracking (MIT App Inventor).
 
 ### Experience:
+* **University of Arizona (BIO5 / Wing Lab):** Comparative genomics of transposable elements in wild rice.
+* **MBZUAI (CBCRG Lab / UGRIP 2026):** Ask JASPAR — LLM & MCP-driven regulatory genomics tools.
+* **Kozybayev Labs:** Environmental biotechnology & biosensors.
 * **KAUST (Jesse Poland Lab):** Research internship focusing on digital phenotyping and high-throughput field data analysis.
 
 ## Featured Projects
