@@ -89,7 +89,6 @@ I am a researcher and data analyst focused on the intersection of **Plant Genomi
 ---
 
 ###  Connect / Publications
-p>
   <a href="https://linkedin.com/in/daniil-gerassimov-2478802b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://orcid.org/0009-0002-0741-5594"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=1r0rgsoAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" /></a>
