@@ -4,11 +4,13 @@
 I am a researcher and data analyst focused on the intersection of **Plant Genomics** and **Digital Phenotyping**. My work bridges the gap between raw biological data and actionable agricultural insights.
 
 ### Technical Expertise:
-* **Genomics:** De novo genome assembly (Hifiasm, Jellyfish), Annotation (Prokka), and Homology (BLAST+).
-* **Transcriptomics:** Differential Gene Expression (DGE) analysis, Volcano plots, and statistical filtering in R.
-* **Phenomics:** Statistical analysis of field trials, automated plot summarization, and trait correlation.
-* **Data Science:** Functional programming in R (Tidyverse), hypothesis testing (ANOVA, t-test), and Linear Regression.
+
+* **Genomics & TE Annotation:** De novo assembly (Hifiasm, Jellyfish), RagTag scaffolding, Prokka, BLAST+, LTR retrotransposon analysis, RITE DB validation.
+* **Data Science / Analytics:** R (tidyverse, ggplot2, ANOVA, linear models), Python, Bash scripting, HPC (PBS/Slurm) workflows.
+* **AI / Software Engineering:** Model Context Protocol (MCP), LLM function calling, REST API design, Git/GitHub, Docker reproducibility.
+* **Experimental / Wet Lab:** CTAB DNA extraction, PCR, gel electrophoresis, microbial cultivation, spectrophotometry & bioassays.
 * **Engineering:** Laboratory automation (Python GUIs) and Cloud-based sample tracking (MIT App Inventor).
+---
 
 ### Experience:
 * **University of Arizona (BIO5 / Wing Lab):** Comparative genomics of transposable elements in wild rice.
@@ -17,6 +19,10 @@ I am a researcher and data analyst focused on the intersection of **Plant Genomi
 * **KAUST (Jesse Poland Lab):** Research internship focusing on digital phenotyping and high-throughput field data analysis.
 
 ## Featured Projects
+
+### [Oryza TE Dynamics](https://github.com/batyrguzinaakmaral-ui/oryza-te-dynamics): Bioinformatic pipeline and visualization tools for investigating Transposable Element dynamics in *Oryza* CC/BBCC genomes.
+* **Ask JASPAR (MBZUAI UGRIP 2026):** Natural-language interface and MCP server tools (`infer_from_sequence`, `compare_matrices`) for transcription factor binding profiles.
+* **Plant Genome Assembly (Rice):** PacBio HiFi read assembly, k-mer profiling, and organelle sorting.
 
 ### [Plant Genome Assembly (Rice)](https://github.com/daniil-11-ger/oryza-sativa-genome-assembly)
 * **Focus:** Eukaryotic genome reconstruction using PacBio HiFi reads.
