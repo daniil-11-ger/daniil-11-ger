@@ -21,9 +21,9 @@ I am a researcher and data analyst focused on the intersection of **Plant Genomi
 
 ## Featured Projects
 
-### Core Research & Computational Genomics
+### Core Research / Computational Genomics
 
-#### [Oryza TE Dynamics](https://github.com/batyrguzinaakmaral-ui/oryza-te-dynamics): Bioinformatic pipeline and visualization tools for investigating Transposable Element dynamics in *Oryza* CC/BBCC genomes.
+### [Oryza TE Dynamics](https://github.com/batyrguzinaakmaral-ui/oryza-te-dynamics): Bioinformatic pipeline and visualization tools for investigating Transposable Element dynamics in *Oryza* CC/BBCC genomes.
 * **Ask JASPAR (MBZUAI UGRIP 2026):** Natural-language interface and MCP server tools (`infer_from_sequence`, `compare_matrices`) for transcription factor binding profiles.
 * **Plant Genome Assembly (Rice):** PacBio HiFi read assembly, k-mer profiling, and organelle sorting.
 
@@ -48,10 +48,21 @@ I am a researcher and data analyst focused on the intersection of **Plant Genomi
 * **Key Skill:** Statistical hypothesis testing and biological visualization (Volcano Plots).
 
 
+### Analytics, Automation & Data Engineering
 ### [Agronomic Data Automation (Project Connor)](https://github.com/daniil-11-ger/agronomic-data-automation-r)
 * **Focus:** Automated summarization of multi-trait field breeding trials.
 * **Tools:** `R`, `Functional Programming`, `dplyr`.
 * **Key Skill:** Data engineering and automated plot-level variability analysis.
+
+### [Biotech Lab Assistant (GUI)](https://github.com/daniil-11-ger/biotech-gui-tools)
+* **Focus:** Python desktop tools for routine lab calculations.
+* **Features:** Tm calculation (Wallace Rule), DNA-to-RNA transcription.
+* **Key Skill:** Python Software Development & UI Design.
+
+### [BioSample Cloud Tracker](https://github.com/daniil-11-ger/biosample-cloud-tracker)
+*  **Focus:** Cloud-based Android application for laboratory inventory.
+* **Features:** Real-time data sync via CloudDB, item management for reagents/samples.
+*  **Key Skill:** Mobile Development (MIT App Inventor) & Cloud Integration.
 
 ### [Sequence Homology Search (BLAST)](https://github.com/daniil-11-ger/sequence-homology-search-blast)
 * **Focus:** Large-scale sequence identification and hit validation.
@@ -63,22 +74,14 @@ I am a researcher and data analyst focused on the intersection of **Plant Genomi
 * **Topics:** CLT simulations, ANOVA, Tukey HSD, and Linear Regression.
 * **Key Skill:** Mathematical foundations and reproducible modeling.
 
-## [Biotech Lab Assistant (GUI)](https://github.com/daniil-11-ger/biotech-gui-tools)
-* **Focus:** Python desktop tools for routine lab calculations.
-* **Features:** Tm calculation (Wallace Rule), DNA-to-RNA transcription.
-* **Key Skill:** Python Software Development & UI Design.
 
-### [BioSample Cloud Tracker](https://github.com/daniil-11-ger/biosample-cloud-tracker)
-*  **Focus:** Cloud-based Android application for laboratory inventory.
-* **Features:** Real-time data sync via CloudDB, item management for reagents/samples.
-*  **Key Skill:** Mobile Development (MIT App Inventor) & Cloud Integration.
 
 ---
 ## Tech Stack
 * **Bioinformatics:** [Bash Scripting](https://github.com/daniil-11-ger/oryza-sativa-genome-assembly), [Conda](https://github.com/daniil-11-ger/bacterial-genome-assembly), HPC, SRA-tools, [K-mer Analysis](https://github.com/daniil-11-ger/oryza-sativa-genome-assembly).
 * **Development:** [Python (Tkinter)](https://github.com/daniil-11-ger/biotech-gui-tools), Git/GitHub, [Mobile App Development (AIA)](https://github.com/daniil-11-ger/biosample-cloud-tracker).
 * **Domain:** PCR Design, [Genomic Annotation](https://github.com/daniil-11-ger/bacterial-genome-assembly), Molecular Biology, Laboratory Automation.
-## 
+###
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
@@ -87,6 +90,7 @@ I am a researcher and data analyst focused on the intersection of **Plant Genomi
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Geneious](https://img.shields.io/badge/Geneious%20Prime-00A86B?style=flat&logo=dna&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
 
