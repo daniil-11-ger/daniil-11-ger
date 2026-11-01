@@ -24,6 +24,10 @@ I am a researcher and data analyst focused on the intersection of **Plant Genomi
 * **Ask JASPAR (MBZUAI UGRIP 2026):** Natural-language interface and MCP server tools (`infer_from_sequence`, `compare_matrices`) for transcription factor binding profiles.
 * **Plant Genome Assembly (Rice):** PacBio HiFi read assembly, k-mer profiling, and organelle sorting.
 
+### [AskJASPAR](https://github.com/khan-lab/AskJASPAR) (MBZUAI CBCRG Lab — Private Repository): 
+  * Natural-language interface and MCP server tools for querying transcription factor binding profiles from JASPAR.
+  * **My Contribution:** Designed the result-ranking layer, built pagination-aware retrieval (1,700+ records/query), engineered `compare_matrices` (Pearson correlation), and conducted benchmark parsing evaluations (doubling accuracy from 25% to ~54%).
+
 ### [Plant Genome Assembly (Rice)](https://github.com/daniil-11-ger/oryza-sativa-genome-assembly)
 * **Focus:** Eukaryotic genome reconstruction using PacBio HiFi reads.
 * **Tools:** Hifiasm, Jellyfish, RagTag, Augustus.
