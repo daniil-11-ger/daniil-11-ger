@@ -10,9 +10,10 @@ I am a researcher and data analyst focused on the intersection of **Plant Genomi
 * **AI / Software Engineering:** Model Context Protocol (MCP), LLM function calling, REST API design, Git/GitHub, Docker reproducibility.
 * **Experimental / Wet Lab:** CTAB DNA extraction, PCR, gel electrophoresis, microbial cultivation, spectrophotometry & bioassays.
 * **Engineering:** Laboratory automation (Python GUIs) and Cloud-based sample tracking (MIT App Inventor).
+---
 
-* ***Experimental / Wet Lab:*** Recombinant protein production (*Pichia pastoris* expression), Gibson/NEBuilder Assembly, Tn5 transposon mutagenesis, CTAB & Miniprep DNA extraction, PCR/Colony-PCR, SDS-PAGE, Agarose Gel Electrophoresis, Spectrophotometry (NanoDrop).
-* ***Bioinformatics & In Silico Cloning:*** Geneious Prime (plasmid mapping, Nanopore/Plasmidsaurus verification), BLAST+, R/Bioconductor, Slurm HPC.
+* **Experimental / Wet Lab:** Recombinant protein production (*Pichia pastoris* expression), Gibson/NEBuilder Assembly, Tn5 transposon mutagenesis, CTAB & Miniprep DNA extraction, PCR/Colony-PCR, SDS-PAGE, Agarose Gel Electrophoresis, Spectrophotometry (NanoDrop).
+* **Bioinformatics & In Silico Cloning:** Geneious Prime (plasmid mapping, Nanopore/Plasmidsaurus verification), BLAST+, R/Bioconductor, Slurm HPC.
 ---
 
 ### Experience:
